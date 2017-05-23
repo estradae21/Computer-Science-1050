@@ -1,0 +1,19 @@
+Gross pay Savings rate Savings amount IRA rate IRA amount
+_________ ____________ ______________ ________ __________
+
+100.00		10.0	10.00		5.0		5.00
+1000.00		11.0	110.00		6.0		60.00
+1234.56		10.5	129.63		6.0		74.07
+6543.21		10.0	654.32		5.0		327.16
+10000.00		12.0	1200.00		10.0		1000.00
+4444.22		10.2	453.31		4.9		217.77
+2222.44		11.9	264.47		10.0		222.24
+3141.59		12.0	376.99		5.0		157.08
+Number Of Lines: 	10
+Number of Valid Lines: 	8
+Sum of Gross Pay 	28686.02
+Sum of Savings 	3198.72
+Sum of IRA 	2063.32
+Average of Gross Pay: 	3585.75
+Average of Savings: 	399.84
+Average of IRA: 	257.92
